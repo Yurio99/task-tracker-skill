@@ -1,5 +1,5 @@
 ---
-name: task-tracker
+name: task-tracker-pro
 description: |
   持久化任务管理：拆解步骤、追踪进度、中断恢复、多Agent协作。
   触发场景：
